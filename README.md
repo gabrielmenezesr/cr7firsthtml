@@ -1,21 +1,18 @@
-# cr7firsthtmlProjeto: Curiosidades sobre Cristiano Ronaldo
+# Projeto CR7 - Curiosidades sobre Cristiano Ronaldo
 
-Sobre o Projeto
+Um projeto simples em HTML que traz algumas curiosidades sobre o jogador de futebol Cristiano Ronaldo.
 
-Estou iniciando meus estudos em HTML e decidi criar um pequeno projeto para praticar. Escolhi o tema do Cristiano Ronaldo, um dos maiores jogadores de futebol da história, e montei uma página com algumas curiosidades sobre ele.
+## 👨‍💻 Desenvolvedor
 
-O que aprendi
+- **[Seu Nome]**
 
-Estrutura básica do HTML
+## 📋 Funcionalidades
 
-Uso de tags como <header>, <section> e <footer>
+- Exibe curiosidades sobre a carreira de Cristiano Ronaldo
+- Apresenta informações sobre seus recordes e conquistas
+- Contém uma imagem do jogador
 
-Inserir imagens diretamente da internet
+## 🛠️ Tecnologias Utilizadas
 
-Estilização simples com CSS embutido
-
-Próximos Passos
-
-Vou continuar estudando HTML e CSS, e logo mais quero aprender JavaScript para deixar minhas páginas mais dinâmicas!
-
-✨ Vamos juntos nessa jornada do aprendizado! ✨
+- HTML
+- CSS (para estilização simples)
