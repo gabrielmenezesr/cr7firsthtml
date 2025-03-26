@@ -4,7 +4,7 @@ Um projeto simples em HTML que traz algumas curiosidades sobre o jogador de fute
 
 ## 👨‍💻 Desenvolvedor
 
-- **[Seu Nome]**
+- **[Gabriel Menezes]**
 
 ## 📋 Funcionalidades
 
